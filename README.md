@@ -1,7 +1,14 @@
+```
+     ██╗██╗   ██╗██████╗ ██████╗     ██████╗  ██████╗ ████████╗
+     ██║██║   ██║██╔══██╗██╔══██╗    ██╔══██╗██╔═══██╗╚══██╔══╝
+     ██║██║   ██║██║  ██║██║  ██║    ██████╔╝██║   ██║   ██║   
+██   ██║██║   ██║██║  ██║██║  ██║    ██╔══██╗██║   ██║   ██║   
+╚█████╔╝╚██████╔╝██████╔╝██████╔╝    ██████╔╝╚██████╔╝   ██║   
+ ╚════╝  ╚═════╝ ╚═════╝ ╚═════╝     ╚═════╝  ╚═════╝    ╚═╝                                                                  
+```
 # Judd Bot
 
-
-### Judd-Bot is a Discord bot that sends random files and messages from specified lists on a set interval and also sends a specific message and file when the command 'headpat' is used in the chat.
+## Judd Bot is a Discord bot that sends random files and messages from specified lists on a set interval.
 
 ## Requirements
 * #### [Python 3.6+](https://www.python.org/downloads/)
