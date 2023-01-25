@@ -34,3 +34,7 @@
 
 ## License
 * #### This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Other
+#### [Judd-Bot Twitter](https://twitter.com/Hourly_Judd)
+#### [SteamWolf's github](https://github.com/SteamWo1f)
