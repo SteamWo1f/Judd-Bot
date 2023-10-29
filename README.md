@@ -1,7 +1,11 @@
 
 ![banner](https://github.com/SteamWo1f/Judd-Bot/blob/811ff3f4b4c73e7a5f07be5e78a45fd7651f0d10/Github%20Images/BannerV2.png)
 
+# ⚠ This is outdated check out the new version [here](https://github.com/SteamWo1f/Judd-Bot-Rescripted) ⚠
+
+
 ## Judd Bot is a Discord bot that sends random files and messages from specified lists on a set interval.
+
 
 ## Requirements
 * #### [Python 3.6+](https://www.python.org/downloads/)
